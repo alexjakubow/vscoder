@@ -1,0 +1,9 @@
+### R ###
+.Rhistory
+.Rapp.history
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.utf8.md
+*.knit.md
+.Renviron
